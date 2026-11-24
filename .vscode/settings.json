@@ -4,7 +4,8 @@
       "path": "C:\\Program Files\\Git\\bin\\bash.exe",
       "args": ["--login", "-i"],
       "env": {
-        "CHERE_INVOKING": "1"
+        "CHERE_INVOKING": "1",
+        "PATH": "C:\\Users\\Luca\\AppData\\Roaming\\uv\\python\\cpython-3.14.3-windows-x86_64-none;${env:PATH}"
       }
     }
   },
